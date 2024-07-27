@@ -1,0 +1,13 @@
+D:\workspace\projects\alone\BeardedVividBlack\BeardedVividBlack\bin\Debug\Microsoft.VisualStudio.Services.Icons.jpg
+D:\workspace\projects\alone\BeardedVividBlack\BeardedVividBlack\bin\Debug\Properties\Bearded Vivid Black.pkgdef
+D:\workspace\projects\alone\BeardedVividBlack\BeardedVividBlack\bin\Debug\BeardedVividBlack.vsix
+D:\workspace\projects\alone\BeardedVividBlack\BeardedVividBlack\bin\Debug\extension.vsixmanifest
+D:\workspace\projects\alone\BeardedVividBlack\BeardedVividBlack\obj\Debug\BeardedVividBlack.csproj.AssemblyReference.cache
+D:\workspace\projects\alone\BeardedVividBlack\BeardedVividBlack\obj\Debug\_EmptyResource.resources
+D:\workspace\projects\alone\BeardedVividBlack\BeardedVividBlack\obj\Debug\BeardedVividBlack.csproj.GenerateResource.cache
+D:\workspace\projects\alone\BeardedVividBlack\BeardedVividBlack\obj\Debug\BeardedVividBlack.csproj.CoreCompileInputs.cache
+D:\workspace\projects\alone\BeardedVividBlack\BeardedVividBlack\obj\Debug\BeardedVividBlack.dll
+D:\workspace\projects\alone\BeardedVividBlack\BeardedVividBlack\obj\Debug\BeardedVividBlack.pdb
+D:\workspace\projects\alone\BeardedVividBlack\BeardedVividBlack\obj\Debug\extension.vsixmanifest
+D:\workspace\projects\alone\BeardedVividBlack\BeardedVividBlack\obj\Debug\files.json
+D:\workspace\projects\alone\BeardedVividBlack\BeardedVividBlack\obj\Debug\createTemplateManifests.cache
